@@ -6,23 +6,11 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>
-	<div>
-		<img src="" alt="kishmat">
+<section >
+	<div class="w-full bg-gray-700 text-white h-16 text-xl flex items-center pl-28">
+		Home
 	</div>
-
-	<div>
-	<h1>
-		Kishmat Bhattarai
-	</h1>
-	<div>
-		<div>Undergraduate Bachelor of Computer Science</div>
-		<div>Software Developer</div>
-	</div>
-	</div>
-
-
-
+	
 </section>
 
 <style>
