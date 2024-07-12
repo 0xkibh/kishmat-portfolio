@@ -3,24 +3,19 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 
-<div class="text-column">
-	<h1>About this app</h1>
+<div>
+	<div class="w-full bg-[#2E2D3C] text-white h-20 text-3xl flex items-center pl-28">
+		About Me
+	</div>
+	<div class="flex-col space-y-4 text-xl py-10 px-20 leading-9">
+		
 
-	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
+		<p>Software Developer, Currently learning NLP</p>
 
-	<pre>npm create svelte@latest</pre>
+		<p>
+			Github: <a href="https://github.com/0xmatriksh" class="underline text-purple-600">0xmatriksh</a>
+		</p>
 
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
+	</div>
 
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
 </div>

@@ -10,7 +10,7 @@
 	<div class="w-full bg-[#2E2D3C] text-white h-20 text-3xl flex items-center pl-28">
 		Home
 	</div>
-	<div class="flex-col space-y-4 text-xl  py-10 px-20 leading-9">
+	<div class="flex-col space-y-4 text-xl py-10 px-20 leading-9">
 		<p> Hello everyone, myself Kishmat Bhattarai. </p>
 
 		<p> I am a software developer with a degree in Computer Science and Information Technology from Lumbini City College. 

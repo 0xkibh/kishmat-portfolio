@@ -38,6 +38,9 @@
 			<li aria-current={$page.url.pathname.startsWith('/projects') ? 'page' : undefined}>
 				<a href="/projects">Projects</a>
 			</li>
+			<li aria-current={$page.url.pathname.startsWith('/projects') ? 'page' : undefined}>
+				<a href="/kishmat_cv.pdf" target="_blank">CV</a>
+			</li>
 		</ul>
 	</nav>
 </header>
