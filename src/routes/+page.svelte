@@ -10,22 +10,23 @@
 	<div class="w-full bg-[#2E2D3C] text-white h-20 text-3xl flex items-center pl-28">
 		Home
 	</div>
-	<div class="text-xl  py-10 px-20 leading-9">
-		<p> Hello everyone, I am Kishmat Bhattarai. </p>
+	<div class="flex-col space-y-4 text-xl  py-10 px-20 leading-9">
+		<p> Hello everyone, myself Kishmat Bhattarai. </p>
 
 		<p> I am a software developer with a degree in Computer Science and Information Technology from Lumbini City College. 
 			My professional journey has provided me with diverse experiences in software development, machine learning and artificial 
-			intelligence. I am eager to pursue graduate studies in this domain and aspire to contribute to advancements in AI through research and development. 
+			intelligence. I am eager to pursue graduate studies in AI domain and aspire to contribute to advancements in AI through research and development. 
 		</p>
 
         <p>Currently, at Mercantile Cloud, I focus on Document Extraction using Machine Learning and built QnA systems with large language models. 
-			Additionally, I developed cloud services using AWS and Azure, which involved creating Lambda functions and integrating them with other services for an Email Bot Application.
+			Additionally, I developed cloud services using AWS and Azure, which involved creating Lambda functions and integrating them with other services for an application.
 		   These experiences deepened my expertise in machine learning and cloud computing, enhancing my ability to solve complex problems. 
 		</p>
 
-        <p>At KonnectCraft, I contributed to the enhancement of a Deal Management System built in React and Django and
+        <p>At KonnectCraft, I contributed to the enhancement of an application built in React and Django and
 		am involved in developing the next version of the front-end using Next.js. My work on integrating deep learning models
-		with applications has solidified my foundation in software development methodologies and AI technologies.
+		using Transfer Learning and Image Classification with mobile application has solidified my foundation in software development
+		methodologies and AI technologies.
 		</p>
 
 		<p>

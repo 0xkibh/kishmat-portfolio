@@ -19,7 +19,7 @@
 					<div class="font-light">
 						Software Developer | Python, Web, ML, NLP
 						<p>Kathmandu, Nepal</p>
-						<p>kishmat17@gmail.com</p>
+						<a href="mailto: kishmat17@gmail.com" class="underline">kishmat17@gmail.com</a>
 					</div>
 				</div>
 			</div>
