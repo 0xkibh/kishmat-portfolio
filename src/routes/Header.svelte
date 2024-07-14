@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 </script>
 
@@ -29,17 +30,17 @@
 
 	<nav class="bg-[#2E2D3C] ml-52 ">
 		<ul class="flex justify-center text-2xl space-x-4 h-16 items-center">
-			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
+			<li aria-current={$page.url.pathname === base + '/' ? 'page' : undefined}>
+				<a href="{base}">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
+			<li aria-current={$page.url.pathname === base + '/about' ? 'page' : undefined}>
+				<a href="{base}/about">About</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/projects') ? 'page' : undefined}>
-				<a href="/projects">Projects</a>
+			<li aria-current={$page.url.pathname.startsWith(base + '/projects') ? 'page' : undefined}>
+				<a href="{base}/projects">Projects</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/projects') ? 'page' : undefined}>
-				<a href="/kishmat_cv.pdf" target="_blank">CV</a>
+			<li aria-current={$page.url.pathname.startsWith(base + '/cv') ? 'page' : undefined}>
+				<a href="{base}/kishmat_cv.pdf" target="_blank">CV</a>
 			</li>
 		</ul>
 	</nav>
