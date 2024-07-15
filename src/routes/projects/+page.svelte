@@ -7,10 +7,10 @@
 </svelte:head>
 
 <section >
-<div class="w-full bg-[#2E2D3C] text-white h-20 text-3xl flex items-center pl-28">
+<div class="w-full bg-[#2E2D3C] text-white h-12 md:h-16 text-xl md:text-3xl flex items-center pl-4 md:pl-28">
     Projects
 </div>
-<div class="container mx-auto p-6">
+<div class="container mx-auto p-2 md:p-6">
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
       <!-- Project 1: Personalized LLM -->
