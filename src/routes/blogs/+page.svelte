@@ -14,6 +14,7 @@
           </h2>
           <p class="text-gray-600 w-2/3 text-lg">In this blog, we’ll explore the wonders when taking advantage of Git hooks and how it can be your trusted ally in creating a smooth and error-free development experience.</p>
         </div>
+
         <!-- Blog Post 2 -->
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
@@ -23,7 +24,79 @@
           </h2>
           <p class="text-gray-600">Deep dive to the Front End world starting from all the way from start to the cutting-edge practices in today’s web.</p>
         </div>
-        <!-- Add more blog posts as needed -->
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-blue-500 hover:underline">
+              Understanding them(LLMs)
+            </a>
+          </h2>
+          <p class="text-gray-600">This article talks about LLMs and how it works.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-blue-500 hover:underline">
+              Understanding to write Python better
+            </a>
+          </h2>
+          <p class="text-gray-600">This article talks about writing Python in better way.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/what-are-all-these-language-models-ac1d62fe7c0f" target="_blank" class="text-blue-500 hover:underline">
+              What are all these language models?
+            </a>
+          </h2>
+          <p class="text-gray-600">Let’s try to understand them. Their differences and what is the current situation in the LLM world.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/the-beginning-of-artificial-neural-network-af49cbcb49b7" target="_blank" class="text-blue-500 hover:underline">
+              The Beginning of Artificial Neural Network
+            </a>
+          </h2>
+          <p class="text-gray-600">In this blog, I am going to talk about some basics of Neural Networks from the beginning.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/how-does-the-text-generation-works-d168afeb39ab" target="_blank" class="text-blue-500 hover:underline">
+              How does AI model generates text?
+            </a>
+          </h2>
+          <p class="text-gray-600">In this blog, lets learn what are the different methods that AI model generates text.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/how-python-framework-creates-web-application-and-server-6ddc8ae63f20" target="_blank" class="text-blue-500 hover:underline">
+              How Python Framework creates Web Application and server?
+            </a>
+          </h2>
+          <p class="text-gray-600">In this blog, lets learn how framework in Python like Flask and Django creates web application.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/understanding-nlp-and-bert-3051da8ad631" target="_blank" class="text-blue-500 hover:underline">
+              Understanding NLP and BERT
+            </a>
+          </h2>
+          <p class="text-gray-600">Today in this particular blog we are going to talk about the BERT, a bidirectional model developed by Google. This is one of the historical leaps in the field of NLP by the researchers involved in this field for many years.</p>
+        </div>
+
+        <div class="bg-white py-4 px-8 rounded-lg shadow-md">
+          <h2 class="text-2xl font-semibold">
+            <a href="https://medium.com/@0xmatriksh/why-do-we-need-scaling-in-gradient-descent-dd14a0126a3b" target="_blank" class="text-blue-500 hover:underline">
+              Why do we need scaling in Gradient Descent?
+            </a>
+          </h2>
+          <p class="text-gray-600">In this article, I am going to talk about the specific answer to the Why do we need scaling particularly for Gradient Descent implementation for Linear Regression.</p>
+        </div>
+
       </div>
     </div>
 </section>
