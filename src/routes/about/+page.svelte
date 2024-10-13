@@ -13,7 +13,7 @@
 		<p>Software Developer, Currently learning NLP</p>
 
 		<p>
-			Github: <a href="https://github.com/0xmatriksh" class="underline text-purple-600">0xmatriksh</a>
+			Github: <a href="https://github.com/0xkibh" class="underline text-purple-600">0xkibh</a>
 		</p>
 
 	</div>

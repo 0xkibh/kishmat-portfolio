@@ -8,7 +8,7 @@
         <!-- Blog Post 1 -->
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/how-to-setup-git-hooks-pre-commit-commit-msg-in-my-project-11aaec139536" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/how-to-setup-git-hooks-pre-commit-commit-msg-in-my-project-11aaec139536" target="_blank" class="text-slate-700 hover:underline">
                 How to setup git hooks(pre-commit, commit-msg) in my project?
             </a>
           </h2>
@@ -18,7 +18,7 @@
         <!-- Blog Post 2 -->
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/dysphoria-in-front-end-world-f66ca16f4319" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/dysphoria-in-front-end-world-f66ca16f4319" target="_blank" class="text-slate-700 hover:underline">
                 Dysphoria in Front End World
             </a>
           </h2>
@@ -27,7 +27,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-slate-700 hover:underline">
               Understanding them(LLMs)
             </a>
           </h2>
@@ -36,7 +36,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/understanding-them-llms-a23ee822793" target="_blank" class="text-slate-700 hover:underline">
               Understanding to write Python better
             </a>
           </h2>
@@ -45,7 +45,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/what-are-all-these-language-models-ac1d62fe7c0f" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/what-are-all-these-language-models-ac1d62fe7c0f" target="_blank" class="text-slate-700 hover:underline">
               What are all these language models?
             </a>
           </h2>
@@ -54,7 +54,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/the-beginning-of-artificial-neural-network-af49cbcb49b7" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/the-beginning-of-artificial-neural-network-af49cbcb49b7" target="_blank" class="text-slate-700 hover:underline">
               The Beginning of Artificial Neural Network
             </a>
           </h2>
@@ -63,7 +63,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/how-does-the-text-generation-works-d168afeb39ab" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/how-does-the-text-generation-works-d168afeb39ab" target="_blank" class="text-slate-700 hover:underline">
               How does AI model generates text?
             </a>
           </h2>
@@ -72,7 +72,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/how-python-framework-creates-web-application-and-server-6ddc8ae63f20" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/how-python-framework-creates-web-application-and-server-6ddc8ae63f20" target="_blank" class="text-slate-700 hover:underline">
               How Python Framework creates Web Application and server?
             </a>
           </h2>
@@ -81,7 +81,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/understanding-nlp-and-bert-3051da8ad631" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/understanding-nlp-and-bert-3051da8ad631" target="_blank" class="text-slate-700 hover:underline">
               Understanding NLP and BERT
             </a>
           </h2>
@@ -90,7 +90,7 @@
 
         <div class="bg-white py-4 px-8 rounded-lg shadow-md">
           <h2 class="text-2xl font-semibold">
-            <a href="https://medium.com/@0xmatriksh/why-do-we-need-scaling-in-gradient-descent-dd14a0126a3b" target="_blank" class="text-blue-500 hover:underline">
+            <a href="https://medium.com/@0xmatriksh/why-do-we-need-scaling-in-gradient-descent-dd14a0126a3b" target="_blank" class="text-slate-700 hover:underline">
               Why do we need scaling in Gradient Descent?
             </a>
           </h2>
